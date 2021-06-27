@@ -9,4 +9,4 @@
 |        HashSet(Set)        |   ✅  |  ✅  |    ✅   |    ✅   |     ✅    |      |   ✅   |    ✅    |
 |       VecDeque(Queue)      |   ✅  |  ✅  |    ✅   |    ✅   |     ✅    |      |   ✅   |    ✅    |
 | BinaryHeap(Priority Queue) |   ✅  |  ✅  |    ✅   |    ✅   |     ✅    |      |   ✅   |         |
-|         LinkedList         |   ✅  |  ✅  |    ✅   |    ✅   |     ✅    |      |       |         |
+|         LinkedList         |   ✅  |  ✅  |    ✅   |    ✅   |     ✅    |      |   ✅   |     ✅   |
