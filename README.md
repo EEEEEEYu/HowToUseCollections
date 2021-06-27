@@ -8,5 +8,5 @@
 |        HashMap(Set)        |   ✅  |  ✅  |    ✅   |    ✅   |     ✅    |      |   ✅   |    ✅    |
 |        HashSet(Set)        |   ✅  |  ✅  |    ✅   |    ✅   |     ✅    |      |   ✅   |    ✅    |
 |       VecDeque(Queue)      |   ✅  |  ✅  |    ✅   |    ✅   |     ✅    |      |   ✅   |    ✅    |
-| BinaryHeap(Priority Queue) |   ✅  |  ✅  |    ✅   |    ✅   |          |      |       |         |
-|         LinkedList         |      |     |        |        |          |      |       |         |
+| BinaryHeap(Priority Queue) |   ✅  |  ✅  |    ✅   |    ✅   |     ✅    |      |   ✅   |         |
+|         LinkedList         |   ✅  |  ✅  |    ✅   |    ✅   |     ✅    |      |       |         |

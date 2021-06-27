@@ -1,5 +1,4 @@
 use std::collections::VecDeque;
-use crate::priority_queue::priority_queue_test;
 
 pub fn print_queue(queue: &VecDeque<i32>) {
     println!("%%%%%%%%%%%%%%%%%%");

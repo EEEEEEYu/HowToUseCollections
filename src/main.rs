@@ -21,12 +21,4 @@ fn main() {
     set_test();
     linked_list_test();
     priority_queue_test();
-
-    let mut a = vec![6,5,4,3,2,1];
-    let mut b = a.iter_mut().enumerate().for_each(|(idx, elem)| {
-        if idx < 3 {
-            *elem += 100;
-        }
-    });
-    println!("{:?}", a);
 }
