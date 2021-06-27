@@ -2,11 +2,11 @@
 
 ### They should be helpful for regular coding and leetcode.
 
-|         Collection         | Init | Add | Remove | Traverse | Sort | Merge | Compare |
-|:--------------------------:|:----:|:---:|:------:|:--------:|:----:|-------|---------|
-|           Vector           |   ✅  |  ✅  |    ✅   |     ✅    |   ✅  |       |         |
-|        HashMap(Set)        |      |     |        |          |      |       |         |
-|        HashSet(Set)        |      |     |        |          |      |       |         |
-|       VecDeque(Queue)      |      |     |        |          |      |       |         |
-| BinaryHeap(Priority Queue) |      |     |        |          |      |       |         |
-|         LinkedList         |      |     |        |          |      |       |         |
+|         Collection         | Init | Add | Remove | Access | Traverse | Sort | Merge | Compare |
+|:--------------------------:|:----:|:---:|:------:|:------:|:--------:|:----:|:-----:|:-------:|
+|           Vector           |   ✅  |  ✅  |    ✅   |    ✅   |     ✅    |   ✅  |   ✅   |    ✅    |
+|        HashMap(Set)        |   ✅  |  ✅  |    ✅   |    ✅   |     ✅    |      |   ✅   |    ✅    |
+|        HashSet(Set)        |   ✅  |  ✅  |    ✅   |    ✅   |     ✅    |      |   ✅   |    ✅    |
+|       VecDeque(Queue)      |   ✅  |  ✅  |    ✅   |    ✅   |     ✅    |      |   ✅   |    ✅    |
+| BinaryHeap(Priority Queue) |   ✅  |  ✅  |    ✅   |    ✅   |          |      |       |         |
+|         LinkedList         |      |     |        |        |          |      |       |         |

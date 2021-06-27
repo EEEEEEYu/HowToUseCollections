@@ -22,7 +22,11 @@ fn main() {
     linked_list_test();
     priority_queue_test();
 
-    for (i,j) in (0..10).zip(2..7) {
-        println!("{},{},",i,j);
-    }
+    let mut a = vec![6,5,4,3,2,1];
+    let mut b = a.iter_mut().enumerate().for_each(|(idx, elem)| {
+        if idx < 3 {
+            *elem += 100;
+        }
+    });
+    println!("{:?}", a);
 }
