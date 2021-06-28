@@ -4,6 +4,7 @@ mod set;
 mod queue;
 mod priority_queue;
 mod linked_list;
+mod string;
 
 
 use vector::vec_test;

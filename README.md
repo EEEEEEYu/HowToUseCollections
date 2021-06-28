@@ -10,3 +10,4 @@
 |       VecDeque(Queue)      |   ✅  |  ✅  |    ✅   |    ✅   |     ✅    |      |   ✅   |    ✅    |
 | BinaryHeap(Priority Queue) |   ✅  |  ✅  |    ✅   |    ✅   |     ✅    |      |   ✅   |         |
 |         LinkedList         |   ✅  |  ✅  |    ✅   |    ✅   |     ✅    |      |   ✅   |     ✅   |
+|         String             |   ✅  |  ✅  |    ✅   |    ✅   |     ✅    |  ✅  |   ✅   |     ✅   |
