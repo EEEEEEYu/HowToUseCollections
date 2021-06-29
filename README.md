@@ -11,3 +11,5 @@
 | BinaryHeap(Priority Queue) |   ✅  |  ✅  |    ✅   |    ✅   |     ✅    |      |   ✅   |         |
 |         LinkedList         |   ✅  |  ✅  |    ✅   |    ✅   |     ✅    |      |   ✅   |     ✅   |
 |         String             |   ✅  |  ✅  |    ✅   |    ✅   |     ✅    |  ✅  |   ✅   |     ✅   |
+
+### There are also some functional programming techniques in vector.rs :)

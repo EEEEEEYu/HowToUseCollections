@@ -32,6 +32,11 @@ pub fn string_test() {
         //
     }
 
+    for (i, char) in str1.chars().enumerate() {
+
+    }
+
+
     /** Sort */
     unsafe {
         str1.as_mut_vec().sort();
